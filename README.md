@@ -1,4 +1,4 @@
-# MagicE-Manager | Magic Employee Manager 🚀
+# Github Developers - Canidate Search App
 
 ## Description
 
