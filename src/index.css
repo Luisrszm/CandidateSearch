@@ -115,8 +115,14 @@ tbody tr:nth-child(odd) {
 }
 
 .table {
+  text-align: center;
   width: 80vw;
   table-layout: fixed;
+}
+
+td {
+  text-align: center;
+  width: 8%;
 }
 
 .minus:active {
